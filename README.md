@@ -16,4 +16,5 @@ attend some hack activities, leran from great people...
   - [x] 公司现有的人够了, 可以用AI辅助了, 鼓励copilot的
   - [x] 实现的工作譬如公众号的配图完全可以用AI, AIGC就是效率工具
   - [x] 永远不要预测未来
-  - [x] 女性工程师多少的背后逻辑是社会文化的驱动 
+  - [x] 女性工程师多少的背后逻辑是社会文化的驱动
+  - [x] 以解决问题为主, 而不是delay为主
