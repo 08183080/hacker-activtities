@@ -23,3 +23,4 @@ attend some hack activities, leran from great people...
   - [x] 越年轻失败成本越低, 但是不要把自己陷进去了
   - [x] 做事情之前, 判断你要做的这件事情有没有意义
   - [x] 最大的社会价值就是创造商业价值, 金钱是通用的
+- [x] 【ISIG产业智能大会】3/16, 主要听SAP的低代码SAP Build app分享 
