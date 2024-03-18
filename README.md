@@ -38,6 +38,7 @@ attend some hack activities, leran from great people...
       - [ ] intel有太多的黑科技了, 取之不尽，用之不竭
     - [ ] 【疑惑】cpu的microcode是啥作用呢?
     - [ ] 要从software层面去驾驭, 而不是通信层面要不然走偏了
+  - [x] 【社交】**抓住在intel的窗口期, 多多social, 和team的人多多团结起来, 多学东西, 使劲薅羊毛** 
 - [ ] 【intel social饭局】3/19, 带cmrc的我的buddy 虎哥来华师吃饭
   - [ ] 带着问题去吃饭, 1.bios cmrc的flow是啥? 2.cmrc有哪些feature  
 - [ ] 【2024全球开发者先锋大会】3/23~3/24
