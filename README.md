@@ -27,7 +27,19 @@ attend some hack activities, leran from great people...
 - [x] 【intel social饭局】3/18, 带server team的darren哥来华师吃饭, 畅谈
   - [x] 【每日思考】你所做的 东西/工作/产品/事业 的可替代性有多少?
   - [x] 【每日思考】你能创造的独一无二的价值和影响力是哪些呢?
-- [ ] 【intel social饭局】3/19, 带cmrc的我的buddy 虎哥来华师吃饭,   
+  - [ ] 【Bios flow】Bios的整体的flow
+    - [x] CPU一开始调用0xFFFF0的code, 
+    - [x] Bios入口地址通常是 0xFFFF0。这个地址处存储着跳转指令（Jump Instruction）
+    - [ ] CPU会将cache作为内存来使用, nem(内存逃逸模式?) 它用cache来做啥呢?
+    - [ ] 【Bios cmrc flow】是啥?
+      - [ ] cmrc会有很多很多的train steps, 就是进行memoory train, 就是调节参数
+      - [ ] 会向各个dimm发送方形波测试, 会测试各个dimm的组合方式
+      - [ ] cpu的行业黑化是socket, memory的行业黑化是dimm
+      - [ ] intel有太多的黑科技了, 取之不尽，用之不竭
+    - [ ] 【疑惑】cpu的microcode是啥作用呢?
+    - [ ] 要从software层面去驾驭, 而不是通信层面要不然走偏了
+- [ ] 【intel social饭局】3/19, 带cmrc的我的buddy 虎哥来华师吃饭
+  - [ ] 带着问题去吃饭, 1.bios cmrc的flow是啥? 2.cmrc有哪些feature  
 - [ ] 【2024全球开发者先锋大会】3/23~3/24
 - [ ] 【上海新能源试驾购车节】3/23~3/24
 - [ ] 【电脑义诊】3/24, 周日下午理科楼二楼给电脑义诊
