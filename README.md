@@ -51,3 +51,5 @@ attend some hack activities, leran from great people...
 - [ ] 【上海新能源试驾购车节】3/23~3/24
 - [ ] 【电脑义诊】3/24, 周日下午理科楼二楼给电脑义诊
 - [ ] 【大佬的晚餐】和乾坤哥约顿饭
+# online
+- [ ] 【Nvidia GTC2024 CEO 黄仁勋主旨演讲【中英】】AI春晚, AI时代来了, 黑客帝国和末法时代
