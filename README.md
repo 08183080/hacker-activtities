@@ -39,7 +39,7 @@ attend some hack activities, leran from great people...
     - [ ] 【疑惑】cpu的microcode是啥作用呢?
     - [ ] 要从software层面去驾驭, 而不是通信层面要不然走偏了
   - [x] 【社交】**抓住在intel的窗口期, 多多social, 和team的人多多团结起来, 多学东西, 使劲薅羊毛** 
-- [ ] 【intel social饭局】3/19, 带cmrc的我的buddy 虎哥来华师吃饭
+- [x] 【intel social饭局】3/19, 带cmrc的我的buddy 虎哥来华师吃饭
   - [ ] 带着问题去吃饭, 1.bios cmrc的flow是啥? 2.cmrc有哪些feature
   - [x] 了解到了对于虎哥他们整个team, 都是在做调参数, 看反馈提供的波形图调节参数, 优化数据传输性能等参数
   - [x] 了解到虎哥自身就是东南计算机本硕, 法国交换过半年, 深耕bios中的mrc六年之久
