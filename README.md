@@ -76,10 +76,11 @@ attend some hack activities, leran from great people...
 - [ ] 【义乌之行】
 # online
 - [x] 【Nvidia GTC2024 CEO 黄仁勋主旨演讲【中英】】AI春晚, AI时代来了, 黑客帝国和末法时代
-  - [x] nvidia不光推出了新款gpu炸弹芯片blackwell, 更基于此构建丰富软件生态譬如数字孪生omminiverse, 推理微服务nim, 这些对于以后的具身智能无疑加速 
+  - [x] nvidia不光推出了新款gpu炸弹芯片blackwell, 更基于此构建丰富软件生态譬如数字孪生omminiverse, 推理微服务nim, 这些对于以后的具身智能无疑加速(我的一句话总结) 
 - [x] 【雷总小米su7宣传】3/28, 雷总太会营销了
   - [x] 请允许我科普一下
-  - [x] 专门一款创始版来割米粉韭菜。。。本人签名的证书   
+  - [x] 专门一款创始版来割米粉韭菜。。。本人签名的证书
+- [ ] 【Steve Jobs' 2005 Stanford Commencement Address】 
 # online wechat records
 - [x] 3/22, 【和创业老板聊天】和 朱友yu师兄 聊天, 他给我安利
   - [x] 如果你这个私有化大模型能和企业更好的结合, 带来更大的商业价值, 直接做全案给他们价格十几二十万, 甚至百来万的项目都可以
