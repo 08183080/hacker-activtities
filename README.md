@@ -75,7 +75,7 @@ attend some hack activities, leran from great people...
 - [ ] 【绍兴 东山之行】放在清明节之后吧
 - [ ] 【义乌之行】
 # online
-- [ ] 【Nvidia GTC2024 CEO 黄仁勋主旨演讲【中英】】AI春晚, AI时代来了, 黑客帝国和末法时代
+- [x] 【Nvidia GTC2024 CEO 黄仁勋主旨演讲【中英】】AI春晚, AI时代来了, 黑客帝国和末法时代
   - [x] nvidia不光推出了新款gpu炸弹芯片blackwell, 更基于此构建丰富软件生态譬如数字孪生omminiverse, 推理微服务nim, 这些对于以后的具身智能无疑加速 
 - [x] 【雷总小米su7宣传】3/28, 雷总太会营销了
   - [x] 请允许我科普一下
