@@ -85,7 +85,9 @@ attend some hack activities, leran from great people...
   - [x] 三个建议:
     - [x] connect the dots
     - [x] love and loss
-    - [x] death  
+    - [x] death 
+- [ ] 【Facebook Founder Mark Zuckerberg Commencement Address | Harvard Commencement 2017】
+  - [ ] link: https://www.youtube.com/watch?v=BmYv8XGl-YU  
 # online wechat records
 - [x] 3/22, 【和创业老板聊天】和 朱友yu师兄 聊天, 他给我安利
   - [x] 如果你这个私有化大模型能和企业更好的结合, 带来更大的商业价值, 直接做全案给他们价格十几二十万, 甚至百来万的项目都可以
