@@ -80,7 +80,12 @@ attend some hack activities, leran from great people...
 - [x] 【雷总小米su7宣传】3/28, 雷总太会营销了
   - [x] 请允许我科普一下
   - [x] 专门一款创始版来割米粉韭菜。。。本人签名的证书
-- [ ] 【Steve Jobs' 2005 Stanford Commencement Address】 
+- [x] 【Steve Jobs' 2005 Stanford Commencement Address】
+  - [x] link: https://www.youtube.com/watch?v=UF8uR6Z6KLc
+  - [x] 三个建议:
+    - [x] connect the dots
+    - [x] love and loss
+    - [x] death  
 # online wechat records
 - [x] 3/22, 【和创业老板聊天】和 朱友yu师兄 聊天, 他给我安利
   - [x] 如果你这个私有化大模型能和企业更好的结合, 带来更大的商业价值, 直接做全案给他们价格十几二十万, 甚至百来万的项目都可以
