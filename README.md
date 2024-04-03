@@ -94,7 +94,7 @@ attend some hack activities, leran from great people...
     - [x] love and loss
     - [x] death 
 - [ ] 【Facebook Founder Mark Zuckerberg Commencement Address | Harvard Commencement 2017】
-  - [ ] link: https://www.youtube.com/watch?v=BmYv8XGl-YU  
+  - [ ] link: https://www.youtube.com/watch?v=BmYv8XGl-YU 
 # online wechat records
 - [x] 3/22, 【和创业老板聊天】和 朱友yu师兄 聊天, 他给我安利
   - [x] 如果你这个私有化大模型能和企业更好的结合, 带来更大的商业价值, 直接做全案给他们价格十几二十万, 甚至百来万的项目都可以
@@ -104,4 +104,14 @@ attend some hack activities, leran from great people...
     - [x] 第二, 你的方案是什么样的, 有什么优势
     - [x] 第三, 要用什么样的销售方式
     - [x] 第四, 什么样的标准化或者定制化的交付模式
-   
+- [ ] 4/3, 【和daren哥聊天】晚上和daren哥聊天
+  - [x] daren哥告诉我下周多来公司, 在公司daren哥带我去根据spec过一下代码和知识点, 整个框架
+  - [x] 技术就是一步步来, 一天看不懂没关系, 找人讨论慢慢来, intel的文化是 do right thing, not do thing right
+  - [ ] PCIe的spec和对应的code回头去看一下, 有人去带着看是很好的
+  - [x] 固件需要follow多少业界规范? 多少Intel规范?
+  - [ ] 就算你去不去搞intel的internal的ip和规范，光是开源的你了解你都不得了, 中断在edk2都有
+  - [x] daren哥带我过这些基础知识先建立框架, 我辅助daren哥本地部署gemma模型
+  - [ ] 从cpu上电到os开始的所有流程都理清一遍
+  - [ ] **windows系统上处理PCIe的配置空间**（**on windows, read pci card cfg?**）【问题】
+  - [ ] Debug版本有输出可以进入os, Release版本没有输出一直hang? 怎么debug?【**Debug大杀器**】
+    - [ ]  这时候只能硬钢, 机器既然hang了, 没关系, 那内存还在, 你去去intel的**itp**连上去, 将死时候的IP指针dump下来, 把c stack dump出来, 去分析这个栈, 逆向分析, 再结合编译时候的map文件去分析栈, 再对应code文件就知道大概是在哪个函数中出来。。。
