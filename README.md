@@ -116,3 +116,6 @@ attend some hack activities, leran from great people...
   - [ ] Debug版本有输出可以进入os, Release版本没有输出一直hang? 怎么debug?【**Debug大杀器**】
     - [ ]  这时候只能硬钢, 机器既然hang了, 没关系, 那内存还在, 你去去intel的**itp**连上去, 将死时候的IP指针dump下来, 把c stack dump出来, 去分析这个栈, 逆向分析, 再结合编译时候的map文件去分析栈, 再对应code文件就知道大概是在哪个函数中出来。。。
     - [ ]  底层技术能让你看到本质
+- [ ] 你拿到那些feature的东西, 并不是接近本质的东西, 只能应付考试, 压根没有理解。。。
+- [ ] 底层技术能reshape
+- [ ] 中国芯(片)  
