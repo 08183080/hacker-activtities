@@ -104,7 +104,7 @@ attend some hack activities, leran from great people...
     - [x] 第二, 你的方案是什么样的, 有什么优势
     - [x] 第三, 要用什么样的销售方式
     - [x] 第四, 什么样的标准化或者定制化的交付模式
-- [ ] 4/3, 【和daren哥聊天】晚上和daren哥聊天
+- [x] 4/3, 【和daren哥聊天】晚上和daren哥聊天
   - [x] daren哥告诉我下周多来公司, 在公司daren哥带我去根据spec过一下代码和知识点, 整个框架
   - [x] 技术就是一步步来, 一天看不懂没关系, 找人讨论慢慢来, intel的文化是 do right thing, not do thing right
   - [ ] PCIe的spec和对应的code回头去看一下, 有人去带着看是很好的
@@ -118,4 +118,10 @@ attend some hack activities, leran from great people...
     - [ ]  底层技术能让你看到本质
 - [ ] 你拿到那些feature的东西, 并不是接近本质的东西, 只能应付考试, 压根没有理解。。。
 - [ ] 底层技术能reshape
-- [ ] 中国芯(片)  
+- [ ] 中国芯(片)
+# health talk
+- [x] 【复旦附属中山医院变态反应科 叶伶talk】
+  - [x] 获益良多, 复旦医学院就在徐汇区, 改日去那里
+  - [x] 了解到了过敏的表现譬如说有鼻炎, 眼睛痒, 家族遗传等等
+  - [x] 越是发达国家得过敏的越多, 有点生于忧患死于安乐的意思了
+  - [x] 不过吧, 祸福相依, 过敏的人得肿瘤的概率会小很多   
