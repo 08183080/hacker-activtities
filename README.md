@@ -81,6 +81,9 @@ attend some hack activities, leran from great people...
   - [x] **演唱票代购**是受骗重灾区       
 - [ ] 【绍兴 东山之行】放在清明节之后吧
 - [ ] 【义乌之行】
+- [ ] 【当 AI 遇到屏幕】MSReactor 活动
+  - [x] 一想都是问题，一座都是答案。
+  - [x] 我们倾向于高估于短期的成就，低估长期的成就  
 # online
 - [x] 【Nvidia GTC2024 CEO 黄仁勋主旨演讲【中英】】AI春晚, AI时代来了, 黑客帝国和末法时代
   - [x] nvidia不光推出了新款gpu炸弹芯片blackwell, 更基于此构建丰富软件生态譬如数字孪生omminiverse, 推理微服务nim, 这些对于以后的具身智能无疑加速(我的一句话总结) 
